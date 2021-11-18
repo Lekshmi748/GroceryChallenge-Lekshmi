@@ -1,0 +1,85 @@
+{
+    "items":[
+        {
+          "SerialNumber":1,
+          "Name":"Rice",
+          "Quantity":10,
+          "Unit":"Kg",
+          "Department":"Cerials",
+          "Notes":"Double Horse(white)"
+          
+        },
+        {
+          "SerialNumber":2,
+          "Name":"Chilli Powder",
+          "Quantity":250,
+          "Unit":"gm",
+          "Department":"Spices",
+          "Notes":"Eastern" 
+        },
+        {
+          "SerialNumber":3,
+          "Name":"Oil",
+          "Quantity":1,
+          "Unit":"litre",
+          "Department":"Edible Oil",
+          "Notes":"Kera"
+        },
+        {
+          "SerialNumber":4,
+          "Name":"Milk",
+          "Quantity":2,
+          "Unit":"Cover",
+          "Department":"Diary",
+          "Notes":"Milma"
+        },
+        {
+          "SerialNumber":5,
+          "Name":"Butter",
+          "Quantity":"500",
+          "Unit":"gm",
+          "Department":"Diary",
+          "Notes":"Amul"
+        },
+        {
+          "SerialNumber":6,
+          "Name":"Bread",
+          "Quantity":"2",
+          "Unit":"Packet",
+          "Department":"Food",
+          "Notes":"Royal Bread"
+        },
+        {
+          "SerialNumber":7,
+          "Name":"Potato",
+          "Quantity":2,
+          "Unit":"Kg",
+          "Department":"Veggies",
+          "Notes":"Fresh"
+        },
+        {
+          "SerialNumber":8,
+          "Name":"Onion",
+          "Quantity":2,
+          "Unit":"Kg",
+          "Department":"Veggies",
+          "Notes":"Fresh"
+        },
+        {
+          "SerialNumber":9,
+          "Name":"Orange",
+          "Quantity":1,
+          "Unit":"Kg",
+          "Department":"Fruits",
+          "Notes":"Fresh"
+        },
+        {
+          "SerialNumber":10,
+          "Name":"Chocolate",
+          "Quantity":150,
+          "Unit":"gm",
+          "Department":"Food",
+          "Notes":"Amul Dark Chocolate"
+        }
+    ]
+}
